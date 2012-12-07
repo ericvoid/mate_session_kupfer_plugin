@@ -8,7 +8,7 @@ Based on plugin for Gnome, written by Ulrik Sverdrup.
 
 Installation:
 
-# Download session_mate.py
-# Copy that file to ~/.local/share/kupfer/plugins/
-# Restart Kupfer
-# Enjoy Mate Session Management with MATE
+- Download session_mate.py
+- Copy that file to ~/.local/share/kupfer/plugins/
+- Restart Kupfer
+- Enjoy Mate Session Management with MATE
